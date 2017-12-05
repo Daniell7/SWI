@@ -1,1 +1,1 @@
-ahoj svet
+vytvoril som rovnaky subor v inej vetve
