@@ -1,2 +1,2 @@
-ahoj svet
-ahoj slovensko
+vytvoril som rovnaky subor v inej vetve
+
